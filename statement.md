@@ -5,6 +5,11 @@ This Python template lets you get started quickly with a simple one-page playgro
 ```python runnable
 print('Hello World!')
 ```
+```go runnable
+func main() {
+    fmt.Printf("Hello, World!")
+}
+```
 
 # Advanced usage
 
